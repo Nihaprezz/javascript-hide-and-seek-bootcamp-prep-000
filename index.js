@@ -18,4 +18,3 @@ function increaseRankBy(n){
   }
 }
 
-console.log(increaseRankBy(2));
