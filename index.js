@@ -11,7 +11,7 @@ function deepestChild(){
 }
 
 function increaseRankBy(n){
-  
+  var rankedList = 
 }
 
 console.log(increaseRankBy(2));
