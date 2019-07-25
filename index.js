@@ -11,7 +11,7 @@ function deepestChild(){
 }
 
 function increaseRankBy(n){
-  var rankedList = document.getElementById('app').querySelectorAll('')
+  var rankedList = document.getElementById('app').querySelectorAll('ul.rankedList')
 }
 
 console.log(increaseRankBy(2));
